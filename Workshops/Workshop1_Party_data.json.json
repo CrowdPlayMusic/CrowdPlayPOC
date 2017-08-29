@@ -1,0 +1,531 @@
+{
+  "Active" : false,
+  "Guests" : {
+    "10154970462939230" : {
+      "Points" : 0,
+      "isDJ" : true,
+      "name" : "Anders Wiggers Birkelund",
+      "picURI" : "https://graph.facebook.com/10154970462939230/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+      "userID" : "10154970462939230"
+    },
+    "10155274451502071" : {
+      "Points" : 6,
+      "isDJ" : false,
+      "name" : "Rune Rask",
+      "picURI" : "https://graph.facebook.com/10155274451502071/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+      "userID" : "10155274451502071"
+    },
+    "10155629156711660" : {
+      "Points" : 13,
+      "isDJ" : false,
+      "name" : "Nethe Stensgaard Becker",
+      "picURI" : "https://graph.facebook.com/10155629156711660/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+      "userID" : "10155629156711660"
+    },
+    "10214023866973901" : {
+      "Points" : 21,
+      "isDJ" : false,
+      "name" : "Etki Albayrak",
+      "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+      "userID" : "10214023866973901"
+    },
+    "722646471264211" : {
+      "Points" : 12,
+      "isDJ" : false,
+      "name" : "Vivian Dalsenni Rask",
+      "picURI" : "https://graph.facebook.com/722646471264211/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+      "userID" : "722646471264211"
+    }
+  },
+  "Tracks" : {
+    "spotify:track:09CtPGIpYB4BrO8qb1RGsF" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Purpose (Deluxe)",
+      "Artist" : "Justin Bieber",
+      "ImageURL" : "https://i.scdn.co/image/8b47495ce0c4a341f7196f70bcf4361e6257c1a0",
+      "IsPlaying" : false,
+      "Title" : "Sorry",
+      "URI" : "spotify:track:09CtPGIpYB4BrO8qb1RGsF",
+      "isVoted" : false
+    },
+    "spotify:track:0l1i3nJ4aDMk0inxnvzYTz" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "Amplifier",
+      "Artist" : "Imran Khan",
+      "ImageURL" : "https://i.scdn.co/image/c85e318c537313f731615756145c175bfa3ebbea",
+      "IsPlaying" : false,
+      "Title" : "Amplifier",
+      "URI" : "spotify:track:0l1i3nJ4aDMk0inxnvzYTz",
+      "Voters" : {
+        "-KrfoUTNmvO5dcrgYDBQ" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Nethe Stensgaard Becker",
+          "picURI" : "https://graph.facebook.com/10155629156711660/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10155629156711660"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:1WkMMavIMc4JZ8cfMmxHkI" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "TROLLS (Original Motion Picture Soundtrack)",
+      "Artist" : "Justin Timberlake",
+      "ImageURL" : "https://i.scdn.co/image/0a16c89b313ada7f8d935ebddebdf610377d4ae5",
+      "IsPlaying" : false,
+      "Title" : "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")",
+      "URI" : "spotify:track:1WkMMavIMc4JZ8cfMmxHkI",
+      "isVoted" : false
+    },
+    "spotify:track:1jYiIOC5d6soxkJP81fxq2" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "Grateful",
+      "Artist" : "DJ Khaled",
+      "ImageURL" : "https://i.scdn.co/image/419e392fb9873bbb3eff0f4feccfe177840e1317",
+      "IsPlaying" : false,
+      "Title" : "I'm the One",
+      "URI" : "spotify:track:1jYiIOC5d6soxkJP81fxq2",
+      "isVoted" : false
+    },
+    "spotify:track:1p80LdxRV74UKvL8gnD7ky" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "1989",
+      "Artist" : "Taylor Swift",
+      "ImageURL" : "https://i.scdn.co/image/22d30ca92618d5c5b09ab6cf526c1b77f2518b07",
+      "IsPlaying" : false,
+      "Title" : "Blank Space",
+      "URI" : "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "Voters" : {
+        "-Krfz8jk4u8ISrxlfLMJ" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Nethe Stensgaard Becker",
+          "picURI" : "https://graph.facebook.com/10155629156711660/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10155629156711660"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "Hunting High And Low",
+      "Artist" : "a-ha",
+      "ImageURL" : "https://i.scdn.co/image/c41ae5b513a39d1c616c4c279ebe19981a3092f3",
+      "IsPlaying" : false,
+      "Title" : "Take On Me",
+      "URI" : "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L",
+      "Voters" : {
+        "-KrfwXN_Offxdn83kazY" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:2d8JP84HNLKhmd6IYOoupQ" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Fetty Wap (Deluxe)",
+      "Artist" : "Fetty Wap",
+      "ImageURL" : "https://i.scdn.co/image/a67ffa99f1b530d868f381c2fbcd3989f89a04f5",
+      "IsPlaying" : false,
+      "Title" : "Trap Queen",
+      "URI" : "spotify:track:2d8JP84HNLKhmd6IYOoupQ",
+      "Voters" : {
+        "-KrfnZVil5NEwp6TK7Y_" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Nethe Stensgaard Becker",
+          "picURI" : "https://graph.facebook.com/10155629156711660/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10155629156711660"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:37F0uwRSrdzkBiuj0D5UHI" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "Starboy",
+      "Artist" : "The Weeknd",
+      "ImageURL" : "https://i.scdn.co/image/7bc60842d505753942b0cedf0e95f53074867806",
+      "IsPlaying" : false,
+      "Title" : "Reminder",
+      "URI" : "spotify:track:37F0uwRSrdzkBiuj0D5UHI",
+      "Voters" : {
+        "-Krfv-5FlrXLcS0wcCka" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:3B54sVLJ402zGa6Xm4YGNe" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "Jungle Rules",
+      "Artist" : "French Montana",
+      "ImageURL" : "https://i.scdn.co/image/6fe3712b430fc0ff32e06b355014324a481f7a9c",
+      "IsPlaying" : false,
+      "Title" : "Unforgettable",
+      "URI" : "spotify:track:3B54sVLJ402zGa6Xm4YGNe",
+      "isVoted" : false
+    },
+    "spotify:track:3PVJsEbzmbDzpYfJbXzatK" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Greatest",
+      "Artist" : "Gnags",
+      "ImageURL" : "https://i.scdn.co/image/61fa942e3a8f3a9f86962b824255c9f517df3c7b",
+      "IsPlaying" : false,
+      "Title" : "Mr. Swing King",
+      "URI" : "spotify:track:3PVJsEbzmbDzpYfJbXzatK",
+      "Voters" : {
+        "-KrfmJ23T77edK0W6OLz" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Vivian Dalsenni Rask",
+          "picURI" : "https://graph.facebook.com/722646471264211/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "722646471264211"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:3eze1OsZ1rqeXkKStNfTmi" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "Coloring Book",
+      "Artist" : "Chance The Rapper",
+      "ImageURL" : "https://i.scdn.co/image/717290460ec646ffa372c7f483835eaacfea34f7",
+      "IsPlaying" : false,
+      "Title" : "Juke Jam (feat. Justin Bieber & Towkio)",
+      "URI" : "spotify:track:3eze1OsZ1rqeXkKStNfTmi",
+      "isVoted" : false
+    },
+    "spotify:track:3rOSwuTsUlJp0Pu0MkN8r8" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "FUTURE",
+      "Artist" : "Future",
+      "ImageURL" : "https://i.scdn.co/image/31b0a579225a718b4b1aea0ac6f9e9bdd3da17b0",
+      "IsPlaying" : false,
+      "Title" : "Mask Off",
+      "URI" : "spotify:track:3rOSwuTsUlJp0Pu0MkN8r8",
+      "Voters" : {
+        "-KrfvXkcgpWXAHeS4dCU" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:3xWnxggC9lKV0gltw2WqRP" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "Rasmus Seebach",
+      "Artist" : "Rasmus Seebach",
+      "ImageURL" : "https://i.scdn.co/image/b5add79aa9b4d5a1914c8b16a1d6945f836fd805",
+      "IsPlaying" : false,
+      "Title" : "Lidt I Fem",
+      "URI" : "spotify:track:3xWnxggC9lKV0gltw2WqRP",
+      "Voters" : {
+        "-KrfvurPY8CdRnwz-cgT" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:45HQQ33qbF0WkbqcNcRIys" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Forklædt Som Voksen",
+      "Artist" : "Kim Larsen",
+      "ImageURL" : "https://i.scdn.co/image/a999e63a07158166a02aa801b695161f0b14fb84",
+      "IsPlaying" : false,
+      "Title" : "Fru Sauterne",
+      "URI" : "spotify:track:45HQQ33qbF0WkbqcNcRIys",
+      "Voters" : {
+        "-Krfoo56CyMNvdJMV1Ju" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Vivian Dalsenni Rask",
+          "picURI" : "https://graph.facebook.com/722646471264211/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "722646471264211"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:45XhKYRRkyeqoW3teSOkCM" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "Grateful",
+      "Artist" : "DJ Khaled",
+      "ImageURL" : "https://i.scdn.co/image/419e392fb9873bbb3eff0f4feccfe177840e1317",
+      "IsPlaying" : false,
+      "Title" : "Wild Thoughts",
+      "URI" : "spotify:track:45XhKYRRkyeqoW3teSOkCM",
+      "Voters" : {
+        "-Krfvrxec-qVctUmX95i" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:4cwipyLLmLtqsOhFP8EkCS" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Helmig Herfra",
+      "Artist" : "Thomas Helmig",
+      "ImageURL" : "https://i.scdn.co/image/ff9802194feae78d1ee747b6be66b5cf96d48e53",
+      "IsPlaying" : false,
+      "Title" : "Malaga",
+      "URI" : "spotify:track:4cwipyLLmLtqsOhFP8EkCS",
+      "Voters" : {
+        "-KrfmIhP2XInYweXsfIl" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Vivian Dalsenni Rask",
+          "picURI" : "https://graph.facebook.com/722646471264211/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "722646471264211"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:4ipnJyDU3Lq15qBAYNqlqK" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "Mi Gente",
+      "Artist" : "J Balvin",
+      "ImageURL" : "https://i.scdn.co/image/458494658c2af89d1fdccf695d6c9f29a543ce71",
+      "IsPlaying" : false,
+      "Title" : "Mi Gente",
+      "URI" : "spotify:track:4ipnJyDU3Lq15qBAYNqlqK",
+      "isVoted" : false
+    },
+    "spotify:track:4scpF6J5uMBvoh6sFB7EL1" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "SremmLife",
+      "Artist" : "Rae Sremmurd",
+      "ImageURL" : "https://i.scdn.co/image/849fb6241e461b6326b355f02a28c082d763b032",
+      "IsPlaying" : false,
+      "Title" : "No Type",
+      "URI" : "spotify:track:4scpF6J5uMBvoh6sFB7EL1",
+      "Voters" : {
+        "-KrfsoOGvTabHJvHnPwb" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:5RWiKqLr4lAQ9FTM8dpJ6u" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "Imaginary",
+      "Artist" : "Imran Khan",
+      "ImageURL" : "https://i.scdn.co/image/615d0a57f7fe9f08be0843c92f2f85777cc2a0e5",
+      "IsPlaying" : false,
+      "Title" : "Imaginary",
+      "URI" : "spotify:track:5RWiKqLr4lAQ9FTM8dpJ6u",
+      "Voters" : {
+        "-Krfpc8rVFHEB44ObfVk" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Nethe Stensgaard Becker",
+          "picURI" : "https://graph.facebook.com/10155629156711660/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10155629156711660"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:5bcTCxgc7xVfSaMV3RuVke" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "Funk Wav Bounces Vol.1",
+      "Artist" : "Calvin Harris",
+      "ImageURL" : "https://i.scdn.co/image/5e9722f99e71ad424a3a8e46a4f7c5998460b885",
+      "IsPlaying" : false,
+      "Title" : "Feels",
+      "URI" : "spotify:track:5bcTCxgc7xVfSaMV3RuVke",
+      "Voters" : {
+        "-KrfownfXN6GvTGuEakM" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:5fyIGoaaKelzdyW8ELhYJZ" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "The Pinkprint (Deluxe)",
+      "Artist" : "Nicki Minaj",
+      "ImageURL" : "https://i.scdn.co/image/4044c3bdc55263cf7a3fc8acaf55df1e60e57b8a",
+      "IsPlaying" : false,
+      "Title" : "Feeling Myself",
+      "URI" : "spotify:track:5fyIGoaaKelzdyW8ELhYJZ",
+      "Voters" : {
+        "-KrfpcOCQxXzoSdyyFre" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Nethe Stensgaard Becker",
+          "picURI" : "https://graph.facebook.com/10155629156711660/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10155629156711660"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:69oJmQ3NnWHQriYQ4L8dKa" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "Rica",
+      "Artist" : "Gilli",
+      "ImageURL" : "https://i.scdn.co/image/9e1947ecee4a08fe5f279801a833df7dafdc6bde",
+      "IsPlaying" : false,
+      "Title" : "Rica",
+      "URI" : "spotify:track:69oJmQ3NnWHQriYQ4L8dKa",
+      "Voters" : {
+        "-Krfv_ZeM3PLJaDBW6zn" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:6RX5iL93VZ5fKmyvNXvF1r" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "B'Day Deluxe Edition",
+      "Artist" : "Beyoncé",
+      "ImageURL" : "https://i.scdn.co/image/ce2a146c4afd781312ee71078c8565b709fff913",
+      "IsPlaying" : false,
+      "Title" : "Irreplaceable",
+      "URI" : "spotify:track:6RX5iL93VZ5fKmyvNXvF1r",
+      "isVoted" : false
+    },
+    "spotify:track:6aJS26fzd7rZzxKUM65r86" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Midt Om Natten [Remastered]",
+      "Artist" : "Kim Larsen",
+      "ImageURL" : "https://i.scdn.co/image/5a62d353ae4bbc6b6b6bfe7abad9b190e2b17e7b",
+      "IsPlaying" : false,
+      "Title" : "Susan Himmelblå",
+      "URI" : "spotify:track:6aJS26fzd7rZzxKUM65r86",
+      "Voters" : {
+        "-KrfonKOPX_YkB6OFrP0" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Vivian Dalsenni Rask",
+          "picURI" : "https://graph.facebook.com/722646471264211/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "722646471264211"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:6fujklziTHa8uoM5OQSfIo" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "SremmLife 2 (Deluxe)",
+      "Artist" : "Rae Sremmurd",
+      "ImageURL" : "https://i.scdn.co/image/534eaab939f9ad6de709fbc7fa534c2daaa4f7ac",
+      "IsPlaying" : false,
+      "Title" : "Black Beatles",
+      "URI" : "spotify:track:6fujklziTHa8uoM5OQSfIo",
+      "isVoted" : false
+    },
+    "spotify:track:6rPO02ozF3bM7NnOV4h6s2" : {
+      "AddedBy" : "10155629156711660",
+      "Album" : "Despacito Feat. Justin Bieber (Remix)",
+      "Artist" : "Luis Fonsi",
+      "ImageURL" : "https://i.scdn.co/image/edcc53317411b5e025e920857fb0f871c4087ce9",
+      "IsPlaying" : false,
+      "Title" : "Despacito - Remix",
+      "URI" : "spotify:track:6rPO02ozF3bM7NnOV4h6s2",
+      "isVoted" : false
+    },
+    "spotify:track:77qlTzXdjc9izVHXtYh6D3" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Yummi Yummi",
+      "Artist" : "Kim Larsen",
+      "ImageURL" : "https://i.scdn.co/image/ebd94cb2eece413c07551068d5f0cc554e90e171",
+      "IsPlaying" : false,
+      "Title" : "De Smukke Unge Mennesker",
+      "URI" : "spotify:track:77qlTzXdjc9izVHXtYh6D3",
+      "isVoted" : false
+    },
+    "spotify:track:794F99D5BQHS5ZGRXAs7I5" : {
+      "AddedBy" : "10214023866973901",
+      "Album" : "The Pinkprint (Deluxe)",
+      "Artist" : "Nicki Minaj",
+      "ImageURL" : "https://i.scdn.co/image/4044c3bdc55263cf7a3fc8acaf55df1e60e57b8a",
+      "IsPlaying" : false,
+      "Title" : "Anaconda",
+      "URI" : "spotify:track:794F99D5BQHS5ZGRXAs7I5",
+      "Voters" : {
+        "-Krfsz0HvGeyqV-Z16Cg" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Etki Albayrak",
+          "picURI" : "https://graph.facebook.com/10214023866973901/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10214023866973901"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:7EVk9tRb6beJLTHrg6AkY9" : {
+      "AddedBy" : "10155274451502071",
+      "Album" : "Tuesday (feat. Danelle Sandoval)",
+      "Artist" : "Burak Yeter",
+      "ImageURL" : "https://i.scdn.co/image/b9b9d571ba43ac572a03f5d5a5922ae2f41c5947",
+      "IsPlaying" : false,
+      "Title" : "Tuesday (feat. Danelle Sandoval)",
+      "URI" : "spotify:track:7EVk9tRb6beJLTHrg6AkY9",
+      "Voters" : {
+        "-KrfvjFGDa9qr7RVZaY3" : {
+          "Points" : 0,
+          "isDJ" : false,
+          "name" : "Rune Rask",
+          "picURI" : "https://graph.facebook.com/10155274451502071/picture?height=200&width=200&migration_overrides=%7Boctober_2012%3Atrue%7D",
+          "userID" : "10155274451502071"
+        }
+      },
+      "isVoted" : false
+    },
+    "spotify:track:7tFiyTwD0nx5a1eklYtX2J" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "A Night At The Opera (Deluxe Remastered Version)",
+      "Artist" : "Queen",
+      "ImageURL" : "https://i.scdn.co/image/f6e02ce8bc9e91afa0e220703072c20bf72c72c5",
+      "IsPlaying" : false,
+      "Title" : "Bohemian Rhapsody",
+      "URI" : "spotify:track:7tFiyTwD0nx5a1eklYtX2J",
+      "isVoted" : false
+    },
+    "spotify:track:7zsXy7vlHdItvUSH8EwQss" : {
+      "AddedBy" : "722646471264211",
+      "Album" : "Cold Water",
+      "Artist" : "Major Lazer",
+      "ImageURL" : "https://i.scdn.co/image/071c7f412110d8754756e1833d978e5099a42648",
+      "IsPlaying" : false,
+      "Title" : "Cold Water",
+      "URI" : "spotify:track:7zsXy7vlHdItvUSH8EwQss",
+      "isVoted" : false
+    }
+  },
+  "location" : {
+    "latitude" : 56.1599,
+    "longtitude" : 10.215499999999999
+  },
+  "name" : "NavitasFest",
+  "partyID" : "4ded006e-a734-466b-96b8-4ccc77985a68",
+  "password" : "1234",
+  "userID" : "10154970462939230"
+}
